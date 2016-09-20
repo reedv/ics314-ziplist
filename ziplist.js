@@ -24,7 +24,6 @@
 const arr1 = [1, 2, 3, 4];
 const arr2 = ['a', 'b', 'c', 'd'];
 
-// assumes lists may have dissimilar lengths
 // function ziplist(list1, list2) {
 //   const newList = [];
 //   for (let even = 0, j = 0; j < list1.length; even += 2, j += 1) {
